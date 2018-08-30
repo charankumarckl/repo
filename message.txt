@@ -1,2 +1,6 @@
 1.master file
+<<<<<<< HEAD
 2.hotfix file
+=======
+2.issue 53 file
+>>>>>>> issue53
