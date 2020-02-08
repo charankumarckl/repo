@@ -1,3 +1,4 @@
+message= quoter BB
 message= quoter dm changes
 new changes donein dm latest branch
 changes done in bb env
