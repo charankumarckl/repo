@@ -1,2 +1,2 @@
 quoter data
-value="dm quoter value"
+new dm data
