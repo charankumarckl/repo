@@ -1,5 +1,0 @@
-book
-copy
-ebook
-pen
-pencil
