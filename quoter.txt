@@ -1,1 +1,2 @@
 quoter data
+value="bb quoter"
